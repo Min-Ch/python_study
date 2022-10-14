@@ -1,0 +1,42 @@
+.idea/*
+*.pyc
+venv/*
+config/common/env.json
+deploy.log
+app.log
+## Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+## ROOT STATIC FILES, DJANGO COLLECTSTATIC
+static/
+
+## WEB
+frontend/web/node_modules
+frontend/web/static/addcampus/js
+frontend/web/static/addcampus/poylfill
+frontend/web/static/assets/images
+frontend/web/static/assets/scripts
+frontend/web/static/bundle.js
+frontend/web/static/bundle.js.map
+!frontend/web/static/addcampus/css
+!frontend/web/static/assets/css
+
+## CMS
+frontend/cms/project/build
+frontend/cms/static/*
+frontend/cms/templates/index.html
+frontend/cms/project/node_modules/
+frontend/cms/project/.eslintcache
+frontend/cms/project/coverage
+frontend/cms/project/.DS_Store
+frontend/cms/project/.env.local
+frontend/cms/project/.env.test.local
+frontend/cms/project/npm-debug.log*
+frontend/cms/project/yarn-debug.log*
+frontend/cms/project/yarn-error.log*
+frontend/cms/project/debug.log
+
+## csv files
+exports/*
