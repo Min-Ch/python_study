@@ -7,3 +7,7 @@
 - date_range : 날짜 범위를 이용하여 시퀀셜한 객체 생성법 (sequence, iter, container)
 
 - fruits : python에 내장된 매직 메서드의 종류 및 사용법
+
+# etc
+
+- toeic : pandas를 이용한 간단한 토익 단어 테스트 어플 (`pip install pandas`)
