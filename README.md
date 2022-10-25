@@ -11,3 +11,5 @@
 # etc
 
 - toeic : pandas를 이용한 간단한 토익 단어 테스트 어플 (`pip install pandas`)
+
+- prisoner : 수학 사고 문제 (확률의 수수께끼) [링크](https://www.youtube.com/watch?v=PE4vLbyOgw0)
