@@ -13,3 +13,5 @@
 - toeic : pandas를 이용한 간단한 토익 단어 테스트 어플 (`pip install pandas`)
 
 - prisoner : 수학 사고 문제 (확률의 수수께끼) [링크](https://www.youtube.com/watch?v=PE4vLbyOgw0)
+
+- dictation : 받아쓰기 어플 -> `input`에 `timer`를 설정 (`subprocess`, `threading`)
