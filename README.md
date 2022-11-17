@@ -17,3 +17,5 @@ python 공부를 위한 개인 레포지토리
 - prisoner : 수학 사고 문제 (확률의 수수께끼) [링크](https://www.youtube.com/watch?v=PE4vLbyOgw0)
 
 - dictation : 받아쓰기 어플 -> `input`에 `timer`를 설정 (`subprocess`, `threading`)
+
+- manito : 마니또 뽑기 script
